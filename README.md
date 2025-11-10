@@ -22,11 +22,15 @@ The ultimate goal of the project is for you to be able to download a framework t
 
 ### General API System
 
+- Green: Actually working.
+- Red: Future features.
+
 ![image alt](https://github.com/aishindev/LWGF/blob/main/readme_files/General_API_System.png)
 
 ### Database
 
-IMAGEN DIAGRAMA DATABASE TABLE
+- Green: Actually working.
+- Red: Future features.
 
 ![image alt](https://github.com/aishindev/LWGF/blob/main/readme_files/Database_tables.png)
 
